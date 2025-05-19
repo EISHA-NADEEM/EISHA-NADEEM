@@ -2,7 +2,9 @@
  
 
 ### About Me:
-I'm Muhammad Saqlain, a Final-Year Computer Science student passionate about building scalable and efficient solutions. My current skillset includes practical experience in Flutter for mobile app development, React for web development, foundational knowledge of containerization with Docker, and an understanding of AWS fundamentals. I'm actively expanding my expertise in the DevOps ecosystem and exploring the world of front-end development with React. Eager to contribute to innovative projects and continuously learn within a collaborative environment.
+A motivated Computer Science student and aspiring Software Engineer with experience in building efficient and user-friendly software
+solutions using web development technologies such as HTML, CSS, JavaScript, React, and frameworks like Bootstrap and Tailwind CSS. Knowledgeable in database concepts like MySQL and currently developing skills in web development technologies and frameworks, with hands-on practice and ongoing learning. Passionate about problem-solving, and continuous learning and seeking a software
+engineering role to contribute to impactful projects and develop both technical and managerial skills.
 
 -  How to reach me: eishanadeem010@gmail.com
 -  Linkedin: www.linkedin.com/in/eishanadeem
